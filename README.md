@@ -41,7 +41,7 @@ To toggle the theme, change the `isDark` variable in `main.dart`.
 
 
 ## 🤓 Author(s)
-**Olusegun Festus Babajide**
+**Olusegun Festus Babajide, Denis Evseev**
 
 
 ## ☕️  Donate
