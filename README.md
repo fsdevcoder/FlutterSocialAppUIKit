@@ -50,7 +50,7 @@ Buy me a cup of Coffee😁
 
 | Mode | Link/Wallet|
 | ------| ------------|
-| Bitcoin | 3GrziPW6Gz6S5mXo2EsiYpafW8vXVq5Rbv|
+| Bitcoin | 35n4TJSVJQjJepcBoNNJpMLBM5CDbZyvM2|
 
 
 ## 🔖 LICENCE
